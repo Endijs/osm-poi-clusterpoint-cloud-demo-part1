@@ -5,7 +5,7 @@ data from [Clusterpoint Cloud](http://clusterpoint.com) and how to put such data
 
 ## LIVE DEMO
 
-You can access live demo at: [https://osmpoi.endijs.com](https://osmpoi.endijs.com)
+You can access live demo at: [http://osmpoi.endijs.com](http://osmpoi.endijs.com)
 
 ## INSTALLATION
 
