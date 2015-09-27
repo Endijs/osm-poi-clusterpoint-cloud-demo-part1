@@ -72,7 +72,7 @@ $(document).ready(function() {
         var page = typeof keepPage !== 'undefined' ? $('#pager').val() : 1;
 
         var center = circle.getCenter();
-
+        $('#center').text('Lat: ' + center.lat().toFixed(8) + '; Long: ' + center.lng().toFixed(8));
         var data = {
             q: $('#search-phrase').val(),
             page: page,
